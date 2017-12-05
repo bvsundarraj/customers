@@ -19,7 +19,7 @@ namespace frmCustomers
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Form load code here has changed test this.
+            //Form load code 
         }
     }
 }
