@@ -20,6 +20,7 @@ namespace frmCustomers
         private void Form1_Load(object sender, EventArgs e)
         {
             //Form load code in branch test
+            Console.WriteLine();
         }
     }
 }
